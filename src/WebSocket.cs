@@ -1,3 +1,4 @@
+#if !WEIXINMINIGAME
 using SpacetimeDB.BSATN;
 using SpacetimeDB.ClientApi;
 
@@ -486,3 +487,4 @@ namespace SpacetimeDB
         }
     }
 }
+#endif
